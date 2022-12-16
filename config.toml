@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Hello Hugo! Dobruj den' everybody!'
-theme = 'ananke'
+title = 'Dobruj den everybody!'
+theme = 'hugo-flex-master'
